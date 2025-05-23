@@ -4403,6 +4403,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b> Naeem Akram </b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/VishvajeetGaikwad">
+                    <img src="https://avatars.githubusercontent.com/u/182543871?v=4" width="100px;" alt="Vishvajeet Gaikwad"/>
+                    <br />
+                    <sub><b> Vishvajeet gaikwad </b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/anand-w">
                     <img src="https://avatars.githubusercontent.com/u/73929247?v=4" width="100px;" alt="Anand Patel"/>
